@@ -1,0 +1,16 @@
+# Core Libraries
+
+- Numpy
+- Pandas
+- Torch
+- Keras
+- Sklearn
+ 
+# Visualizaton
+
+- matplotlib
+- seaborn
+
+# Web Framework
+
+- Flask
