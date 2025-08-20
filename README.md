@@ -24,9 +24,11 @@ python app.py
 Then open browser → http://127.0.0.1:5000/
 
 #   Sample Output
-Homepage 
-
-
+# Homepage 
+[App Homepage](https://github.com/Divyasree1405/Stroke-Prediction-Project/blob/main/stroke%20identification/Screenshots/home_page.png)
+# Prediction Result
+[Prediction Normal]()
+[Prediction Stroke]()
 
 
 #    Tech Stack
