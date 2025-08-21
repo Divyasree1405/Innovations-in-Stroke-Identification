@@ -23,9 +23,9 @@ python app.py
 
 
 #   Sample Output
-Homepage 
+# Homepage 
 - [App Homepage](https://github.com/Divyasree1405/Stroke-Prediction-Project/blob/main/stroke%20identification/Screenshots/home_page.png)
-Prediction Result
+ # Prediction Result
 - [Prediction Normal](https://github.com/Divyasree1405/Stroke-Prediction-Project/blob/main/stroke%20identification/Screenshots/result.png)
 - [Prediction Stroke](https://github.com/Divyasree1405/Stroke-Prediction-Project/blob/main/stroke%20identification/Screenshots/result_page.png)
 
