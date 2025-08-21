@@ -14,14 +14,13 @@ The project includes:
 - Flask Web Application** for user-friendly interaction  
 - Visualization of Results
   
- Quick Setup:
+ 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the app
 python app.py 
 
-Then open browser → http://127.0.0.1:5000/
 
 #   Sample Output
 # Homepage 
